@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pics5", "Pics5\Pics5.csproj", "{2819022E-5558-4806-9B74-66633AB0626C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labir", "Labir\Labir.csproj", "{C9EDA48A-7D9C-481D-A6BB-1008E152EA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fastclick", "Fastclick\Fastclick.csproj", "{1A1026FB-7F7F-4F1A-9DE0-CCF551AB4D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoClick", "AutoClick\AutoClick.csproj", "{472B83A5-D674-473F-8D1E-081D4F332B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascst", "Pascst\Pascst.csproj", "{351C9D23-D4F0-4DF1-8088-486EF8EDE17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbal counting", "Verbal counting\Verbal counting.csproj", "{835AA2C9-6ADF-4327-A1FE-8196A109BDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2819022E-5558-4806-9B74-66633AB0626C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2819022E-5558-4806-9B74-66633AB0626C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2819022E-5558-4806-9B74-66633AB0626C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2819022E-5558-4806-9B74-66633AB0626C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EDA48A-7D9C-481D-A6BB-1008E152EA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EDA48A-7D9C-481D-A6BB-1008E152EA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EDA48A-7D9C-481D-A6BB-1008E152EA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EDA48A-7D9C-481D-A6BB-1008E152EA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1026FB-7F7F-4F1A-9DE0-CCF551AB4D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1026FB-7F7F-4F1A-9DE0-CCF551AB4D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1026FB-7F7F-4F1A-9DE0-CCF551AB4D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1026FB-7F7F-4F1A-9DE0-CCF551AB4D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472B83A5-D674-473F-8D1E-081D4F332B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472B83A5-D674-473F-8D1E-081D4F332B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472B83A5-D674-473F-8D1E-081D4F332B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472B83A5-D674-473F-8D1E-081D4F332B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351C9D23-D4F0-4DF1-8088-486EF8EDE17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351C9D23-D4F0-4DF1-8088-486EF8EDE17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351C9D23-D4F0-4DF1-8088-486EF8EDE17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351C9D23-D4F0-4DF1-8088-486EF8EDE17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835AA2C9-6ADF-4327-A1FE-8196A109BDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835AA2C9-6ADF-4327-A1FE-8196A109BDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835AA2C9-6ADF-4327-A1FE-8196A109BDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835AA2C9-6ADF-4327-A1FE-8196A109BDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
