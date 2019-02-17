@@ -25,7 +25,6 @@ namespace Pascst
             InitializeComponent();
             showScore();
             setCPUSpeed();
-
         }
 
         private void userPanelStone_MouseEnter(object sender, EventArgs e)
